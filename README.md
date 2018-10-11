@@ -1,16 +1,16 @@
 # Java Documents  
 
-### Eclipse-IDE-Handbook  
+- ### Eclipse-IDE-Handbook  
     Βιβλίο πάνω στο Eclipse  
-### Git-Tutorial  
-       
-### JUnit-Programming-Cookbook  
+- ### Git-Tutorial  
+    Git   
+- ### JUnit-Programming-Cookbook  
     JUnit Unit testing  
-### JUnit-Tutorial  
+- ### JUnit-Tutorial  
     JUnit Unit testing  
-### Java-Abstraction  
-       
-### Java-Concurrency-Essentials  
+- ### Java-Abstraction  
+    Abstract classes, interfaces, etc   
+- ### Java-Concurrency-Essentials  
     Java threads και άλλα
-### JavaFX-Programming-Cookbook  
+- ### JavaFX-Programming-Cookbook  
     JavaFX
