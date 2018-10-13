@@ -5,7 +5,7 @@
 - ### Git-Tutorial  
     Git   
 - ### JDBC Tutorial
-    Java DataBase Connector    
+    Java DataBase Connectivity   
 - ### JUnit-Programming-Cookbook  
     JUnit Unit testing  
 - ### JUnit-Tutorial  
